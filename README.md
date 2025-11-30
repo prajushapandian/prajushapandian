@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I’m Prajusha</h1>
 🤝 I’m looking for help with hackathons, research and open source contributions
-📫 How to reach me **prajushapandian@gmail.com**
+- 📫 How to reach me prajushapandian@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
