@@ -2,7 +2,7 @@
 
 - 🤝 I’m looking for help with hackathons, research and open source contributions
 
-- 📫 How to reach me reachprajusha.com
+- 📫 How to reach me reachprajusha@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
